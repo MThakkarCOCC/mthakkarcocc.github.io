@@ -1,1 +1,1 @@
-Chicken feet
+Sauteed chicken feet

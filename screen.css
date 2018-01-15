@@ -43,15 +43,16 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 	display: block;
 }
 li {
-		text-align: right;
+		text-align: left;
 }
 body {
 	font-family: sans-serif;
-	color: #Purple;
+	color: Purple;
+	background-color: lightgrey;
 }
 
 a {
-	color: #0388a6;
+	color: Purple;
 }
 h1 {
 	Font-size: 8em;
@@ -59,11 +60,11 @@ h1 {
 }
 h2 {
 	Font-size: 3em;
-	text-align: right;
-	color: teal;
+	text-align: Left;
+	color: Purple;
 }
 a:hover {
-	color: #009ce0;
+	color: Pink;
 }
 
 #main {

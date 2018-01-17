@@ -55,13 +55,20 @@ a {
 	color: Purple;
 }
 h1 {
-	Font-size: 8em;
+	Font-size: 6em;
 	color: Purple;
 }
 h2 {
-	Font-size: 3em;
+	Font-size: 4em;
 	text-align: Left;
 	color: Purple;
+}
+h3 {
+	font-size: 2em;
+	text-align: Left;
+	color: Purple;
+}
+
 }
 a:hover {
 	color: Pink;
